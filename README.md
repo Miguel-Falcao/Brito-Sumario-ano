@@ -24,7 +24,36 @@ Bibliografia:
   -Operadores de incremento e decremento
   -Operadores de incremento e decremento
   -Estrutura básica de um programa em C
-  -Estrutura de seleção ou condicional
+ T1-Estrutura de seleção ou condicional
+ P1-Estruturas de repetição
+  -Vetor e matriz
+  -Modularização - função
+ T2-Passagem de parâmetros
+  -Recursão
+  -Registros
+  -Vetor de registros
+ P2-Arquivo
+  -Ponteiro
+ T3-Listas encadeadas
+  -Pilhas
+  -Filas
+  P3-Árvore Binária
+  
+  AVALIAÇÕES
+  T1 - 17/03
+  P1 - 14/04
+  
+  T2 - 16/06
+  P2 - 11/08
+  
+  T3 - 6/10
+  P3 - 3/11
+  
+  PF - 8/12
+  
+  
+ 
+
   
   
  
